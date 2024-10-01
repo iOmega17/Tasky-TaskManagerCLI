@@ -1,0 +1,8 @@
+# Maven target directory
+/target/
+# Any other files or directories that should be ignored
+/src/main/java/com/tasky_project/Tasky.class
+
+/src/test/
+/.vscode/
+/.editorconfig/
