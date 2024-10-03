@@ -155,7 +155,7 @@ Feel free to contribute to this project by submitting a pull request. To contrib
 4. Push the branch to GitHub (`git push origin feature-branch`).
 5. Open a pull request on GitHub.
 
-- Project was created based of requirements from [roadmap.sh]([(https://roadmap.sh/projects/task-tracker)])
+- Project was created based of requirements from [roadmap.sh](https://roadmap.sh/projects/task-tracker)
 
 ---
 
