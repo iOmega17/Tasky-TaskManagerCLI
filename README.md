@@ -156,7 +156,6 @@ Feel free to contribute to this project by submitting a pull request. To contrib
 5. Open a pull request on GitHub.
 
 - Project was created based of requirements from ([(https://roadmap.sh/projects/task-tracker)])
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
