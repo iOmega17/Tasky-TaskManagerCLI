@@ -155,8 +155,7 @@ Feel free to contribute to this project by submitting a pull request. To contrib
 4. Push the branch to GitHub (`git push origin feature-branch`).
 5. Open a pull request on GitHub.
 
-## License
-
+- Project was created based of requirements from ([(https://roadmap.sh/projects/task-tracker)])
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
